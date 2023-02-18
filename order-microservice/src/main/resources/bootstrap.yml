@@ -1,7 +1,7 @@
-# spring:
-#   application:
-#     name: order-microservice
-#   cloud:
-#     config:
-#       enabled: true
-#       uri: https://config-microservice-production-9ea3.up.railway.app
+spring:
+  application:
+    name: order-microservice
+  cloud:
+    config:
+      enabled: true
+      uri: https://config-microservice-production-9ea3.up.railway.app
