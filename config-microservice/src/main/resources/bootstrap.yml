@@ -9,7 +9,7 @@ spring:
           default-label: main
           uri: https://github.com/Edwin9226/ecommercefastfood
           searchPaths: config-data
-        bootstrap: true
+#         bootstrap: true
 
 
   application:
