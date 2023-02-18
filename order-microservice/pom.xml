@@ -55,12 +55,12 @@
 			<scope>test</scope>
 		</dependency>
 
-
+<!--comentando boostrap 
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-starter-bootstrap</artifactId>
 		</dependency>
-
+-->
 
 <!--agregando feign client para jalar productos -->
 		<dependency>
