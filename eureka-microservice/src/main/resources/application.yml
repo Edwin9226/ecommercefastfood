@@ -4,4 +4,4 @@ spring:
   cloud:
     config:
       profile: dev
-      uri: https://config-microservice-production-0212.up.railway.app
+      uri: config-microservice-production-421c.up.railway.app

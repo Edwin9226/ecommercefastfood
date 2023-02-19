@@ -1,8 +1,5 @@
-eureka-microservice:
-  properties: eureka-microservice dev
 server:
   port: 8761
-
 eureka:
   client:
     registerWithEureka: false
